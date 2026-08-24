@@ -30,5 +30,6 @@ qa-automation-learning/
 ├── coding-practice/
 ├── selenium/
 ├── api-testing/
-├── sql/
 └── README.md
+
+Goal: 45 days
