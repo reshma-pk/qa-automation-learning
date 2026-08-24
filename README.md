@@ -27,7 +27,6 @@ This repository contains my hands-on practice in:
 ## Repository Structure
 
 qa-automation-learning/
-│
 ├── coding-practice/
 ├── selenium/
 ├── api-testing/
