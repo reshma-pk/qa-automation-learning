@@ -1,3 +1,4 @@
+//Search specific no. in an array
 import java.util.Scanner;
 public class BinarySearchExample {
     public static void main(String[] args) {
