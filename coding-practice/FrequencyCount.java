@@ -13,7 +13,7 @@ public class FrequencyCount {
         }
 
         for(int key:map.keySet()) {
-            System.out.println(key + ": " + map.get(key));
+            System.out.println(key + "--> " + map.get(key));
         }
     }
     
